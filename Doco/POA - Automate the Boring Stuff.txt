@@ -1,0 +1,15 @@
+0930 
+	- Capter 1 done
+	- Summary reviewed 
+	- End of chapter exercises complete
+	
+POA
+-----
+There are 20 chapters. Do them.	
+	
+:D0
+Next: 
+	- Chapter 2 https://automatetheboringstuff.com/2e/chapter2/
+	- Create folder and Example py script(s) 
+	- Review Chapter 2 summary 
+	- Do end of chapter exercises
