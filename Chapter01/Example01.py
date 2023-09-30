@@ -21,3 +21,11 @@ piVal = input()
 
 newFloat = float(piVal) * 1.42
 print('New float is ' + str(newFloat))
+
+# an uncommon math operator, integer divison/floored quotient 
+idfq = 22 // 8
+print('22 div 8 with quotient floored = ' + str(idfq)) 
+
+# Using splat on strings 
+dupy = 'Alice ' * 5
+print(dupy)
