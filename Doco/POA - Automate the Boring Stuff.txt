@@ -3,13 +3,18 @@
 	- Summary reviewed 
 	- End of chapter exercises complete
 	
+1104 
+	- Chapter 2 scratch made w/ scraps from reading through Ch 2 text 
+	
 POA
 -----
 There are 20 chapters. Do them.	
 	
 :D0
 Next: 
-	- Chapter 2 https://automatetheboringstuff.com/2e/chapter2/
+	- Continue Chapter 2 https://automatetheboringstuff.com/2e/chapter2/
+		-- At heading "The Starting, Stopping, and Stepping Arguments to range()"
+		
 	- Create folder and Example py script(s) 
 	- Review Chapter 2 summary 
 	- Do end of chapter exercises
