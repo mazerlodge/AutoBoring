@@ -5,6 +5,9 @@
 	
 1104 
 	- Chapter 2 scratch made w/ scraps from reading through Ch 2 text 
+
+1111
+	- Bonus exercise in Chapter 02, not from the book.  Calc % distro of random 30 via d100
 	
 POA
 -----
