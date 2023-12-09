@@ -11,6 +11,10 @@
 
 1208
 	- Setup git environment on MDT laptop, added ssh key for interaction via Git BASH 
+	- Push not working from MDT laptop
+
+1209
+	- Setup git environment on Theo-U, used existing ed25519 keyset.
 	
 POA
 -----
