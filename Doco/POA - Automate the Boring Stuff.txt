@@ -1,3 +1,5 @@
+
+== 2023 ==
 0930 
 	- Capter 1 done
 	- Summary reviewed 
@@ -15,6 +17,10 @@
 
 1209
 	- Setup git environment on Theo-U, used existing ed25519 keyset.
+
+== 2024 ==
+0211 
+	- Read through ch02 up to 'Guess the Number' 
 	
 POA
 -----
@@ -23,8 +29,8 @@ There are 20 chapters. Do them.
 :D0
 Next: 
 	- Continue Chapter 2 https://automatetheboringstuff.com/2e/chapter2/
-		-- At heading "The Starting, Stopping, and Stepping Arguments to range()"
+		-- At heading "Guess the Number"
+		-- Create code from scratch to do what is demonstrated, don't copy the code given.
 		
-	- Create folder and Example py script(s) 
 	- Review Chapter 2 summary 
 	- Do end of chapter exercises
