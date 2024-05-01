@@ -21,7 +21,12 @@
 == 2024 ==
 0211 
 	- Read through ch02 up to 'Guess the Number' 
-	
+
+0219
+	- Scanned upcoming chapters 
+	- Created plan to flesh out TOC w/ outline of headings in chapters
+	- Added Ch02 Practice Questions txt file to Ch02 folder (model for future folders too)
+		
 POA
 -----
 There are 20 chapters. Do them.	
@@ -34,3 +39,4 @@ Next:
 		
 	- Review Chapter 2 summary 
 	- Do end of chapter exercises
+	- Flesh out TOC w/ outline of headings in chapters
