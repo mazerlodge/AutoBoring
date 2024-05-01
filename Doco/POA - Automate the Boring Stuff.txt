@@ -27,6 +27,10 @@
 	- Created plan to flesh out TOC w/ outline of headings in chapters
 	- Added Ch02 Practice Questions txt file to Ch02 folder (model for future folders too)
 		
+0501 
+	- Entered Ch02 'Guess the number' just to restart activity. 
+
+
 POA
 -----
 There are 20 chapters. Do them.	
@@ -34,8 +38,7 @@ There are 20 chapters. Do them.
 :D0
 Next: 
 	- Continue Chapter 2 https://automatetheboringstuff.com/2e/chapter2/
-		-- At heading "Guess the Number"
-		-- Create code from scratch to do what is demonstrated, don't copy the code given.
+		-- Finished "Guess the Number"
 		
 	- Review Chapter 2 summary 
 	- Do end of chapter exercises
