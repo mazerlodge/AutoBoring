@@ -33,6 +33,12 @@
 1002
 	- Entered Gauss math problem just to restart activity. 
 
+== 2025 == 
+
+0325
+	- Inital work on Rock, Paper, Scissors [GT]
+
+
 POA
 -----
 There are 20 chapters. Do them.	
