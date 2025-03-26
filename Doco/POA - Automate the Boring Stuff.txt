@@ -38,6 +38,8 @@
 0325
 	- Inital work on Rock, Paper, Scissors [GT]
 
+0326
+	- Add eval grid to Rock, Paper, Scissors [GT]
 
 POA
 -----
