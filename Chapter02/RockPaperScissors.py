@@ -49,7 +49,19 @@ def evaluateChoices(playerChoice, computerChoice):
 
 	print('Player chose %s, Computer chose %s' % (spellOutChoice(playerChoice), 
 											  spellOutChoice(computerChoice)))
-# TODO: Do eval
+	
+	# Convert player and computer choices to numbers (r,p,s becomes 0,1,2)
+
+	# TODO: Do eval
+	evalGrid = [
+					[2, 1, 0],
+					[0, 2, 1],
+					[1, 0, 2]
+				]
+	
+
+
+	# TODO: Update stats 
 
 	print('%d Wins, %d Losses, %d Ties' % (winCount, tieCount, loseCount))
 

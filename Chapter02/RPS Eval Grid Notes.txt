@@ -1,0 +1,13 @@
+RPS Eval Grid Notes.txt
+
+	comp
+	r p s
+r	2 1 0
+p	0 2 1
+s	1 0 2
+
+[
+	[2, 1, 0],
+	[0, 2, 1],
+	[1, 0, 2]
+]
