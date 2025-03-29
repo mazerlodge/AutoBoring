@@ -40,6 +40,9 @@
 
 0326
 	- Add eval grid to Rock, Paper, Scissors [GT]
+	
+0329
+	- Fini Rock, Paper, Scissors
 
 POA
 -----
