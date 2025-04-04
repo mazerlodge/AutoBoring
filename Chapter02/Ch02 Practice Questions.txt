@@ -1,26 +1,54 @@
 Ch02 Practice Questions
 1. What are the two values of the Boolean data type? How do you write them?
+	True and False
 
 2. What are the three Boolean operators?
+	and, or, not
 
 3. Write out the truth tables of each Boolean operator (that is, every possible combination of Boolean values for the operator and what they evaluate to).
+	> and 
+		T 	F 
+	T   T   F 
+	F   F   F 
+
+	> or
+		T 	F 
+	T   T   T 
+	F   T   F 
+
+	> not 
+	negates the value; so "not T" = False and "not F" = True
 
 4. What do the following expressions evaluate to?
 
 (5 > 4) and (3 == 5)
+	False and False = False 
 not (5 > 4)
+	not True = False 
 (5 > 4) or (3 == 5)
+	True or False = True 
 not ((5 > 4) or (3 == 5))
+	not ((True) or (False)) = False 
 (True and True) and (True == False)
+	(True) and (False) = False 
 (not False) or (not True)
+	True or False = True 
 
 5. What are the six comparison operators?
+	==, <, > 
+	<=, >=, != 
 
 6. What is the difference between the equal to operator and the assignment operator?
-
+	Equal to (==) does a comparision, the assignment op (=) always assigns a val to the left operand 
 7. Explain what a condition is and where you would use one.
+	a statement such as (x<4), used in conditional statements (e.g. if and while statements) to determine if a block of code executes
+	Used to manage looping  
 
 8. Identify the three blocks in this code:
+	Identified by indentation level 
+	Block #1, Top level, always executes 
+	Block 2 only exec if spam equals 10 
+	Block 3a execs if spam > 5 OR Block 3b execs if spam <= 5
 
 spam = 0
 if spam == 10:
@@ -32,16 +60,39 @@ if spam == 10:
     print('spam')
 print('spam')
 
-9. Write code that prints Hello if 1 is stored in spam, prints Howdy if 2 is stored in spam, and prints Greetings! if anything else is stored in spam.
+9. Write code that prints Hello if 1 is stored in spam, prints Howdy if 2 is stored in spam, 
+	and prints Greetings! if anything else is stored in spam.
+	if spam==1:
+		print("Hello")
+	elif spam == 2: 
+		print("Howdy")  
+	else: 
+		print("Greetings!")
 
 10. What keys can you press if your program is stuck in an infinite loop?
+	Ctl-C 
 
 11. What is the difference between break and continue?
+	break exits execution of a loop regarless if the termination criteria has been met 
+	continue stops the current iteration of a loop by continues processing subseq interations
 
 12. What is the difference between range(10), range(0, 10), and range(0, 10, 1) in a for loop?
+	nothing 
 
-13. Write a short program that prints the numbers 1 to 10 using a for loop. Then write an equivalent program that prints the numbers 1 to 10 using a while loop.
+13. Write a short program that prints the numbers 1 to 10 using a for loop. 
+	Then write an equivalent program that prints the numbers 1 to 10 using a while loop.
+	for x in range(1,11):
+		print(x)
+
+	x=1
+	while (x<11):
+		print(x) 
+		x = x + 1
+
 
 14. If you had a function named bacon() inside a module named spam, how would you call it after importing spam?
+	spam.bacon()
 
-Extra credit: Look up the round() and abs() functions on the internet, and find out what they do. Experiment with them in the interactive shell.
+Extra credit: Look up the round() and abs() functions on the internet, and find out what they do. 
+	Experiment with them in the interactive shell.
+	Done 

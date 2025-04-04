@@ -44,20 +44,15 @@
 0329
 	- Fini Rock, Paper, Scissors
 
+0404
+	- Did end of chapter 2 quiz 
+
 POA
 -----
 There are 20 chapters. Do them.	
 	
 :D0
 Next: 
-	- Fini Chapter 2 https://automatetheboringstuff.com/2e/chapter2/
-		.-- Do A Short Program: Rock, Paper, Scissors		
-			N-- Capture stats of wins, loses, ties
-			N-- Use playerChoice = input()  checking for 'r, p, s, q' 
-			N-- Use randint(1,3)  Note: it is inclusive of a, b 
-			N-- Use "match v:  case "opt1": case _: defaultval" syntax to display player choice 
-			N-- Use if playerChoice == computerChoice:  elif player=='r' and computer = 'p":  etc. 
-			N-- https://www.freecodecamp.org/news/python-switch-statement-switch-case-example/
-		.-- Review Chapter 2 summary 
-		.-- Do end of chapter exercises
+	- Start Chapter 3 https://automatetheboringstuff.com/2e/chapter3/
+
 		.-- Flesh out TOC w/ outline of headings in chapters
