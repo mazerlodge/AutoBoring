@@ -58,6 +58,9 @@ There are 20 chapters. Do them.
 	
 :D0
 Next: 
-	- Start Chapter 3 https://automatetheboringstuff.com/2e/chapter3/
+	- Fini Chapter 3 https://automatetheboringstuff.com/2e/chapter3/
+		.-- Do practice questions 
+		.-- Do Collatz Sequence exercise
 
-		.-- Flesh out TOC w/ outline of headings in chapters
+ToDo:
+	- Flesh out TOC w/ outline of headings in chapters
