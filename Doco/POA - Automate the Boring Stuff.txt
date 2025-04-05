@@ -43,9 +43,14 @@
 	
 0329
 	- Fini Rock, Paper, Scissors
-
+	
 0404
 	- Did end of chapter 2 quiz 
+
+0405
+	- Init Chapter 3 w/ Magic 8 ball array 
+	
+
 
 POA
 -----
