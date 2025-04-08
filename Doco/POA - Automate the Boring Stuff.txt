@@ -50,6 +50,8 @@
 0405
 	- Init Chapter 3 w/ Magic 8 ball array 
 	
+0408
+	- Debugger fight traced to invalid py env
 
 
 POA
@@ -61,6 +63,8 @@ Next:
 	- Fini Chapter 3 https://automatetheboringstuff.com/2e/chapter3/
 		.-- Do practice questions 
 		.-- Do Collatz Sequence exercise
+		.-- Use the other print format syntax:
+			  print(f"{name} is currently in space flying on the {craft}! {greeting}")
 
 ToDo:
 	- Flesh out TOC w/ outline of headings in chapters
