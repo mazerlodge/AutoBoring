@@ -53,6 +53,9 @@
 0408
 	- Debugger fight traced to invalid py env
 
+0409
+	- Added scratch code printtest.py to Chapter 03 (DAG related, not really from Ch 3) 
+	- Did Ch03 Practice Questions. 
 
 POA
 -----
@@ -61,7 +64,6 @@ There are 20 chapters. Do them.
 :D0
 Next: 
 	- Fini Chapter 3 https://automatetheboringstuff.com/2e/chapter3/
-		.-- Do practice questions 
 		.-- Do Collatz Sequence exercise
 		.-- Use the other print format syntax:
 			  print(f"{name} is currently in space flying on the {craft}! {greeting}")
