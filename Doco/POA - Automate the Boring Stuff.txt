@@ -57,6 +57,9 @@
 	- Added scratch code printtest.py to Chapter 03 (DAG related, not really from Ch 3) 
 	- Did Ch03 Practice Questions. 
 
+0422
+	- Wrote Collatz test (end of Ch 3)
+
 POA
 -----
 There are 20 chapters. Do them.	
@@ -64,7 +67,7 @@ There are 20 chapters. Do them.
 :D0
 Next: 
 	- Fini Chapter 3 https://automatetheboringstuff.com/2e/chapter3/
-		.-- Do Collatz Sequence exercise
+		X-- Do Collatz Sequence exercise
 		.-- Use the other print format syntax:
 			  print(f"{name} is currently in space flying on the {craft}! {greeting}")
 
