@@ -60,14 +60,17 @@
 0422
 	- Wrote Collatz test (end of Ch 3)
 
+0514
+	- Updated what's next (moving on to Ch 4, Lists) 
+	
+
 POA
 -----
 There are 20 chapters. Do them.	
 	
 :D0
 Next: 
-	- Fini Chapter 3 https://automatetheboringstuff.com/2e/chapter3/
-		X-- Do Collatz Sequence exercise
+	- Start Chapter 4 Lists https://automatetheboringstuff.com/2e/chapter4/
 		.-- Use the other print format syntax:
 			  print(f"{name} is currently in space flying on the {craft}! {greeting}")
 
