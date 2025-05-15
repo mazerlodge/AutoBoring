@@ -62,6 +62,9 @@
 
 0514
 	- Updated what's next (moving on to Ch 4, Lists) 
+
+0515
+	- Reading from Ch4 up to Methods section
 	
 
 POA
@@ -70,9 +73,13 @@ There are 20 chapters. Do them.
 	
 :D0
 Next: 
-	- Start Chapter 4 Lists https://automatetheboringstuff.com/2e/chapter4/
+	- Cont. Chapter 4 Lists https://automatetheboringstuff.com/2e/chapter4/  (cont. at Methods heading)
 		.-- Use the other print format syntax:
 			  print(f"{name} is currently in space flying on the {craft}! {greeting}")
+		.-- Use list concat to add an element (like listName + [val2add])
+		.-- Use -1 index to get last in list 
+		.-- Use tuple unpacking to extract to multiple vars; a,b,c = listName  # note: count must match exactly
+		.-- Use random.choice(listName) and random.shuffle(listName) 
 
 ToDo:
 	- Flesh out TOC w/ outline of headings in chapters
