@@ -18,6 +18,9 @@
 1209
 	- Setup git environment on Theo-U, used existing ed25519 keyset.
 
+0518
+	- Setup VS Code enviro on new mac, TheoVII.
+
 == 2024 ==
 0211 
 	- Read through ch02 up to 'Guess the Number' 
