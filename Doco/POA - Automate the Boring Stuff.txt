@@ -72,13 +72,27 @@
 0614
 	- Finished reading ch 4
 
+1025
+	- Switch to version 3e of the book, jump to corresponding chapter (ver 2e, ch4 -> ver 3e, ch6)
+	- Created version comparison files 
+	
 POA
 -----
 There are 20 chapters. Do them.	
 	
 :D0
 Next: 
-	- Cont. Chapter 4 Lists https://automatetheboringstuff.com/2e/chapter4/  
+	- Start cherry picking		 
+
+ToDo:
+	- Cherry pick interesting chapters
+		.--Chapter 14 - Excel Spreadsheets
+		.--Chapter 16 - SQLite Databases
+		.--Chapter 18 - CSV, JSON, and XML Files
+		.--Chapter 19 - Keeping Time, Scheduling Tasks, and Launching Programs
+		.--Chapter 20 - Sending Email, Texts, and Push Notifications
+		.--Chapter 23 - Controlling the Keyboard and Mouse
+	- Cont. Chapter 6 Lists https://automatetheboringstuff.com/3e/chapter6/  
 		N-- Cont. at practice questions
 		.-- Use the other print format syntax:
 			  print(f"{name} is currently in space flying on the {craft}! {greeting}")
@@ -87,6 +101,3 @@ Next:
 		.-- Use tuple unpacking to extract to multiple vars; a,b,c = listName  # note: count must match exactly
 		.-- use for idx, itm in enumerate(listOfThings) 
 		.-- Use random.choice(listName) and random.shuffle(listName) 
-
-ToDo:
-	- Flesh out TOC w/ outline of headings in chapters
